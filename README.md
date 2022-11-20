@@ -1,2 +1,2 @@
 # entity-framework
-Platilla Final para crerar Bases de datos Personalizadas 
+Platilla Final para creacion de bases de datos Personalizadas 
